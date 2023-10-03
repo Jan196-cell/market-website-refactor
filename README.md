@@ -8,7 +8,8 @@ For visiting the website please go to:
 
 https://jan196-cell.github.io/market-website-refactor/
 
-You can see a snapshot of the website on the photo attached below. 
+You can also see a snapshot of the website on the photo attached below:
+
 ![image](https://github.com/Jan196-cell/market-website-refactor/assets/127429313/6201a192-13d1-4cfc-92a7-7835c0066072)
 
 ## Installation
